@@ -43,9 +43,16 @@
             "size": "500 Ml",
             "harga": "15.000",
             "link": "www.tokopedia.com/es-teh-jumbokuh"
+        },
+        {
+            "nama": "Lemon Tea",
+            "gambar": "https://cdn.shopify.com/s/files/1/0762/2429/products/SummerLemonFSIT.jpg?v=1532636329",
+            "size": "350 Ml",
+            "harga": "7.000",
+            "link": "www.tokopedia.com/lemontea-cessss"
         }
     ],
-    "Snack": [
+    "Snacks": [
         {
             "nama": "Latiao",
             "gambar": "https://awsimages.detik.net.id/community/media/visual/2023/04/14/latiao-1.jpeg?w=800",
@@ -59,6 +66,13 @@
             "size": "300 gr",
             "harga": "50.000",
             "link": "www.tokopedia.com/pentol-maknyuss"
+        },
+        {
+            "nama": "Seblak Komplit",
+            "gambar": "https://radarjabar.disway.id/upload/065ae743580b8b9eb0c794756abd38a2.jpg",
+            "size": "1 porsi",
+            "harga": "25.000",
+            "link": "www.tokopedia.com/seblakku-huhah"
         }
     ]
 }
